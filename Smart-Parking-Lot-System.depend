@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787915627 source:c:\users\user\downloads\smart-parking-lot-system\main.cpp
+	<iostream>
+	<string>
+
